@@ -1,2 +1,2 @@
-# \# LMS Collab – Library Management System (Team Roll Nos. 27,35 \&36)
+# \# LMS Collab – Library Management System (Team: Roll Nos. 27, 35 and 36)
 
