@@ -1,4 +1,5 @@
 # Book search module for the LMS
+# Sample catalogue data: each entry has a title and an author
 
 # book_search.py (Student A - Issue #1)
 BOOKS = [
