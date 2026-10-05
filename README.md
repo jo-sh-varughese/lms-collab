@@ -1,2 +1,2 @@
-# \# LMS Collab – Library Management System (Team Roll Nos. 27,35 \&36)
+# \# Library Management System – S7 CSE Lab Project
 
