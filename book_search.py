@@ -1,3 +1,5 @@
+# Book search module for the LMS
+
 # book_search.py (Student A - Issue #1)
 BOOKS = [
     {"title": "Software Engineering", "author": "Ian Sommerville"},
